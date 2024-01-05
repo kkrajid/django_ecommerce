@@ -1,4 +1,4 @@
-# ecommerce/core/repositories/product_repository.py
+
 from ecommerce.core.entities.product import Product
 
 class ProductRepository:

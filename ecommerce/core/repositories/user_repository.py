@@ -1,4 +1,4 @@
-# ecommerce/core/repositories/user_repository.py
+
 from ecommerce.core.entities.user import User
 
 class UserRepository:

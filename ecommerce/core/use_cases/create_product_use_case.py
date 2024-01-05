@@ -1,4 +1,4 @@
-# ecommerce/core/use_cases/create_product_use_case.py
+
 from ecommerce.core.entities.product import Product
 from ecommerce.core.repositories.product_repository import ProductRepository
 

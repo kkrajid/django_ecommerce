@@ -1,4 +1,4 @@
-# ecommerce/core/entities/order.py
+
 from django.db import models
 from .user import User
 from .product import Product

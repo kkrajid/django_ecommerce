@@ -1,4 +1,4 @@
-# ecommerce/core/entities/user.py
+
 from django.db import models
 
 class User(models.Model):

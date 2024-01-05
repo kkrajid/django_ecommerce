@@ -1,4 +1,4 @@
-# ecommerce/interfaces/web/views.py
+
 from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
 from django.contrib.auth.models import User as DjangoUser
